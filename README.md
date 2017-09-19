@@ -1,4 +1,4 @@
-# ActivityToActivity
+# ActivityToActivity :globe_with_meridians:
 
  App is for **Android** platform.
  * Apps just shows you how to send string from one activity to other activity.
