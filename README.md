@@ -6,4 +6,4 @@
  
  **YOU CAN ALSO [PULL REQUEST](https://github.com/0xpulsar/ActivityToActivity/pulls) FOR ANY MODIFICATIONS**
 
- [![Build Status](https://github.com/0xpulsar/ActivityToActivity/blob/master/sgk.svg)](http://sgkcreations.blogspot.in)
+
